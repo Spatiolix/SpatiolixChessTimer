@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.black {
+    background-color: black;
+    width: 100%;
+    height: 50vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    cursor: default;
+    border-color: rgb(181, 39, 39);
+    border-width: 10px;
+    border-style: solid;
+}
+
+.white {
+    background-color: white;
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    cursor: default;
+
+    border-color: rgb(181, 39, 39);
+    border-width: 10px;
+    box-sizing: border-box;
+}
